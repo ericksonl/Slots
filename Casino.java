@@ -1,8 +1,5 @@
-import java.util.ArrayList;
-
 /*******************************
  * Author: Liam Erickson 
- * Class: CS257 - Maggie Vanderberg - Lab 9 
  * Date: March 13, 2020
  ********************************/
 

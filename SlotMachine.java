@@ -1,20 +1,13 @@
 /*
 // SlotMachine.java
-// CS257 Lab 4
 // Originally written by: Kevin Sahr, 4/28/19
 // Update by: Maggie Vanderberg Winter 2020
 */
 /*******************************
  * Edited By: Liam Erickson 
- * Class: CS257 - Maggie Vanderberg - Lab 8 
  * Date: March 4, 2020
  ********************************/
 
-/*******************************
- * Edited By: Liam Erickson 
- * Class: CS257 - Maggie Vanderberg - Lab 9 
- * Date: March 13, 2020
- ********************************/
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
